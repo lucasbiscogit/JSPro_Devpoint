@@ -1,0 +1,9 @@
+Node
+VS Code
+Postman
+
+
+Abrir cmd em administrador
+
+Versao do node
+node -v

@@ -1,0 +1,28 @@
+Modulo 01 - Comece por aqui
+01 - Nossa jornada
+02 - Como funciona o suporte
+03 - Ferramentas necessárias
+04 - Frontend vs Backend
+
+
+Modulo 02 - HTML
+01 - O que é HTML
+02 - Estrutura de uma página HTML
+03 - Tags básicas do HTML
+04 - Tabelas no HTML
+05 - Trabalhando com listas
+06 - Exercício com listas
+07 - Tag Span
+08 - Conheça a tag div
+09 - Nossa primeira página
+10 - Exercício com portfólio
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
