@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularios</title>
+</head>
+<body>
+    <h1>Pesquisar no Google maps</h1>
+
+    <form action="https://www.google.com/maps?">
+        <input type="text" id="q" name="q" placeholder="Digite o que quer Pesquisar" maxlength="30">
+        <input type="submit" value="Pesquisar">
+    </form>
+
+    <h1>Pesquisar no Google</h1>
+
+    <form action="https://www.google.com/search?" novalidate>
+        <input type="text" id="q" name="q" placeholder="Digite o que quer Pesquisar" maxlength="30" required>
+        <input type="number" min="5"max="10">
+        <input type="email" disabled>
+        <input type="submit" value="Pesquisar">
+        <input type="text" value="Lucas" readonly>
+    </form>
+</body>
+</html>

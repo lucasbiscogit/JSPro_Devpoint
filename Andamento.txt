@@ -16,10 +16,10 @@ Modulo 02 - HTML
 08 - Conheça a tag div
 09 - Nossa primeira página
 10 - Exercício com portfólio
-11
-12
-13
-14
+11 - O básico sobre inputs
+12 - Trabalhando com formulários
+13 - Validação de formulários
+14 - Outros tipos de inputs
 15
 16
 17
